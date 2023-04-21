@@ -12,6 +12,8 @@ their own NFT on Polygon.
 
 - Original Link: <a href="autonomies.io" target="_blank">autonomies.io</a>
 
+![autonomies.io](/images/autonomies.png)
+
 <h3><u><strong><i>I Bet You</i></strong></u> &nbsp;(MoonRiver)</h3>
 <hr />
 
@@ -19,6 +21,8 @@ IBetYou is a betting platform for users to come in, place a bet, and ear the
 sweet sweet crypto reward.
 
 - Original Link: <a href="ibetyou.xyz" target="_blank">IBetYou.xyz</a>
+
+![autonomies.io](/images/ibetyou.png)
 
 <h3><u><strong><i>Wonderbox</i></strong></u> &nbsp;(POL)</h3>
 <hr />
@@ -39,6 +43,8 @@ in SOL.
 - <a href="https://fundzkickstarter.vercel.app/">Fundz</a>
 - <a href="https://github.com/iamyxsh/solana-crowdfunding">GitHub</a>
 
+![autonomies.io](/images/fundz.png)
+
 <h3><u><strong><i>Web3 Tic-Tac-Toe</i></strong></u> &nbsp;(NEAR)</h3>
 <hr />
 
@@ -46,3 +52,5 @@ A simple tic-tac-toe game built on top of NEAR.
 
 - <a href="https://tiker.vercel.app/">Fundz</a>
 - <a href="https://github.com/iamyxsh/near-protocol-game">GitHub</a>
+
+![autonomies.io](/images/tiker.png)
